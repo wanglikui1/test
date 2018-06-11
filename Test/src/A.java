@@ -5,4 +5,5 @@ public class A {
 	private String b;
 	private String c;
 	private int m;
+	private float bb;
 }
