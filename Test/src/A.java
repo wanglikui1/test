@@ -4,4 +4,5 @@ public class A {
 	private String kk;
 	private String b;
 	private String c;
+	private int mm;
 }
